@@ -1,2 +1,5 @@
 # Jupyter Book (Sphinx) + MyST — build the static site in _build/html
 jupyter-book>=1.0,<2
+
+# JupyterLab — run in the Codespace (port 8888, see scripts/codespace-start-services.sh)
+jupyterlab>=4,<5

@@ -7,11 +7,15 @@
     "ghcr.io/devcontainers/features/node:1": { "version": "20" },
     "ghcr.io/devcontainers/features/python:1": { "version": "3.11", "installTools": true }
   },
-  "forwardPorts": [8765],
+  "forwardPorts": [8765, 8888],
   "portsAttributes": {
     "8765": {
       "label": "Jupyter Book (static)",
       "onAutoForward": "openPreview"
+    },
+    "8888": {
+      "label": "JupyterLab",
+      "onAutoForward": "notify"
     }
   },
   "customizations": {
@@ -28,5 +32,5 @@
   },
   "remoteUser": "vscode",
   "postCreateCommand": "bash scripts/bootstrap-codespace.sh",
-  "postStartCommand": "bash -lc 'PY=python3; [[ -x \"${containerWorkspaceFolder}/.venv/bin/python\" ]] && PY=\"${containerWorkspaceFolder}/.venv/bin/python\"; [[ -d \"${containerWorkspaceFolder}/_build/html\" ]] && nohup \"$PY\" -m http.server 8765 --bind 127.0.0.1 --directory \"${containerWorkspaceFolder}/_build/html\" > /tmp/aima-jb-http.log 2>&1 &'"
+  "postStartCommand": "bash scripts/codespace-start-services.sh"
 }

@@ -6,7 +6,8 @@
     "grade": "node scripts/grade-with-bedrock.js",
     "docs:generate": "node scripts/generate-aima-docs.mjs",
     "book:build": "bash -lc 'test -x .venv/bin/jupyter-book && exec .venv/bin/jupyter-book build . || exec jupyter-book build .'",
-    "book:serve": "bash scripts/serve-jupyter-book.sh"
+    "book:serve": "bash scripts/serve-jupyter-book.sh",
+    "jupyter:lab": "bash -lc 'test -x .venv/bin/jupyter && exec .venv/bin/jupyter lab --ip=127.0.0.1 --port=8888 --ServerApp.token=aima || exec jupyter lab --ip=127.0.0.1 --port=8888 --ServerApp.token=aima'"
   },
   "dependencies": {
     "@aws-sdk/client-bedrock-runtime": "^3.0.0"

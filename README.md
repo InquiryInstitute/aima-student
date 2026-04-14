@@ -6,6 +6,16 @@ Use this repository for **Artificial Intelligence: A Modern Approach** exercises
 
 The dev container builds a **Jupyter Book** (`jupyter-book build .`) into **`_build/html`** and starts a static server on **port 8765**. VS Code / Codespaces should **open that URL in the editor preview** (Simple Browser–style) instead of focusing `README.md`.
 
+## JupyterLab (in the Codespace)
+
+After create, **JupyterLab** is started on **port 8888** (see `scripts/codespace-start-services.sh`). Open the forwarded port from the **Ports** view; when prompted for a token, use **`aima`** (set for convenience in private Codespaces only).
+
+From a terminal you can also run:
+
+```bash
+.venv/bin/jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --ServerApp.token=aima
+```
+
 - **Thebe:** use **Live Code** in the built site (Binder kernel). See the **Thebe demo** page in the book TOC (`docs/thebe-demo.md` source).
 - **Regenerate:** `npm run docs:generate` updates `docs/` and `_toc.yml`, then `npm run book:build` (or `bash scripts/bootstrap-codespace.sh` in a fresh environment).
 

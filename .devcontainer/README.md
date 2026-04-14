@@ -2,7 +2,9 @@
 
 This devcontainer is used when students open their assignment repo in GitHub Codespaces or in Cursor with Dev Containers.
 
-**Create** runs `scripts/bootstrap-codespace.sh`: installs the AIMA Exercise Forms VSIX, creates a Python **`.venv`**, installs `requirements-book.txt`, and runs **`jupyter-book build .`** so `_build/html` exists for the port **8765** preview.
+**Create** runs `scripts/bootstrap-codespace.sh`: installs the AIMA Exercise Forms VSIX, creates a Python **`.venv`**, installs `requirements-book.txt` (Jupyter Book + **JupyterLab**), and runs **`jupyter-book build .`** so `_build/html` exists.
+
+**Start** runs `scripts/codespace-start-services.sh`: serves the book on **8765** and starts **JupyterLab** on **8888** (token `aima` for this template).
 
 ## AIMA Exercise Forms extension
 
