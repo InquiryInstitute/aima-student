@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part V · Machine Learning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch20/`](../../exercises/ch20/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch20/"><code>exercises/ch20/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch20/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 20.1
 <!-- question -->
@@ -26,7 +26,7 @@ The data used for
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch20/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 20.2
 <!-- question -->
@@ -40,7 +40,7 @@ Repeat Exercise bayes-candy-exercise , this time
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch20/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 20.3
 <!-- question -->
@@ -54,7 +54,7 @@ Suppose that Ann’s utilities for cherry and
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch20/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 20.4
 <!-- question -->
@@ -68,7 +68,7 @@ Two statisticians go to the doctor and are both given the same prognosis: A 40% 
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch20/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 20.5
 <!-- question -->
@@ -82,7 +82,7 @@ Explain how to apply the boosting method of
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch20/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 20.6
 <!-- question -->
@@ -96,7 +96,7 @@ Consider $N$ data points $(x_j,y_j)$,
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch20/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 20.7
 <!-- question -->
@@ -110,7 +110,7 @@ Consider the noisy-OR model for fever described
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch20/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 20.8
 <!-- question -->
@@ -124,7 +124,7 @@ This exercise investigates properties of the Beta distribution defined in Equati
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch20/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 20.9
 <!-- question -->
@@ -138,7 +138,7 @@ Consider an arbitrary Bayesian network, a
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch20/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 20.10
 <!-- question -->
@@ -152,7 +152,7 @@ Consider a single Boolean random variable $Y$ (the “classification”). Let th
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch20/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch20/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 20.11
 <!-- question -->

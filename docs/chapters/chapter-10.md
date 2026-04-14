@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part III · Knowledge, Reasoning, and Planning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch10/`](../../exercises/ch10/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch10/"><code>exercises/ch10/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch10/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 10.1
 <!-- question -->
@@ -26,7 +26,7 @@ Consider a robot whose operation is described by the following PDDL operators:
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch10/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 10.2
 <!-- question -->
@@ -40,7 +40,7 @@ Describe the differences and similarities between problem solving and
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch10/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 10.3
 <!-- question -->
@@ -54,7 +54,7 @@ Given the action schemas and initial state from Figure airport-pddl-algorithm , 
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch10/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 10.4
 <!-- question -->
@@ -68,7 +68,7 @@ The monkey-and-bananas problem is faced by a monkey in a laboratory with some ba
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch10/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 10.5
 <!-- question -->
@@ -82,7 +82,7 @@ The original {Strips} planner was designed to control Shakey the robot. Figure s
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch10/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 10.6
 <!-- question -->
@@ -96,7 +96,7 @@ A finite Turing machine has a finite one-dimensional tape of cells, each
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch10/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 10.7
 <!-- question -->
@@ -110,7 +110,7 @@ Explain why dropping negative effects from
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch10/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 10.8
 <!-- question -->
@@ -124,7 +124,7 @@ Figure sussman-anomaly-figure
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch10/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 10.9
 <!-- question -->
@@ -138,7 +138,7 @@ Prove that backward search with PDDL problems is complete.
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch10/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 10.10
 <!-- question -->
@@ -152,7 +152,7 @@ Construct levels 0, 1, and 2 of the planning graph for the problem in
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch10/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 10.11
 <!-- question -->
@@ -166,7 +166,7 @@ Prove the following assertions about planning graphs:
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch10/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 10.12
 <!-- question -->
@@ -180,7 +180,7 @@ We saw that planning graphs can handle only propositional actions. What
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch10/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 10.13
 <!-- question -->
@@ -194,7 +194,7 @@ The set-level heuristic (see page set-level-page uses a planning graph
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch10/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 10.14
 <!-- question -->
@@ -208,7 +208,7 @@ Examine the definition of bidirectional search in Chapter search-chapter .
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch10/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 10.15
 <!-- question -->
@@ -222,7 +222,7 @@ We contrasted forward and backward state-space searchers with
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch10/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 10.16
 <!-- question -->
@@ -236,7 +236,7 @@ Up to now we have assumed that the plans we create always make sure that an acti
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch10/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 10.17
 <!-- question -->
@@ -250,7 +250,7 @@ Consider how to translate a set of action schemas into the successor-state axiom
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch10/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch10/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 10.18
 <!-- question -->

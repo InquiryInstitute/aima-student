@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part IV · Uncertain Knowledge and Reasoning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch14/`](../../exercises/ch14/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch14/"><code>exercises/ch14/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch14/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 14.1
 <!-- question -->
@@ -26,7 +26,7 @@ We have a bag of three biased coins $a$, $b$, and $c$ with probabilities of comi
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch14/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 14.2
 <!-- question -->
@@ -40,7 +40,7 @@ We have a bag of three biased coins $a$, $b$, and $c$ with probabilities of comi
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch14/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 14.3
 <!-- question -->
@@ -54,7 +54,7 @@ Equation ( parameter-joint-repn-equation on page parameter-joint-repn-equation d
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch14/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 14.4
 <!-- question -->
@@ -68,7 +68,7 @@ The arc reversal operation of in a Bayesian network allows us to change the dire
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch14/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 14.5
 <!-- question -->
@@ -82,7 +82,7 @@ Consider the Bayesian network in Figure burglary-figure.
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch14/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 14.6
 <!-- question -->
@@ -96,7 +96,7 @@ Suppose that in a Bayesian network containing an unobserved variable $Y$, all th
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch14/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 14.7
 <!-- question -->
@@ -110,7 +110,7 @@ Let $H_x$ be a random variable denoting the handedness of an individual $x$, wit
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch14/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 14.8
 <!-- question -->
@@ -124,7 +124,7 @@ The Markov
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch14/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 14.9
 <!-- question -->
@@ -138,7 +138,7 @@ Consider the network for car diagnosis shown in Figure car-starts-figure .
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch14/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 14.10
 <!-- question -->
@@ -152,7 +152,7 @@ Consider a simple Bayesian network with root variables ${Cold}$,
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch14/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 14.11
 <!-- question -->
@@ -166,7 +166,7 @@ Consider the family of linear Gaussian networks, as defined on page LG-network-p
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch14/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 14.12
 <!-- question -->
@@ -180,7 +180,7 @@ The probit distribution defined on page probit-page describes the probability di
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch14/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 14.13
 <!-- question -->
@@ -194,7 +194,7 @@ In your local nuclear power station, there is an alarm that senses when a temper
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch14/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 14.14
 <!-- question -->
@@ -208,7 +208,7 @@ Two astronomers in different parts of the world make measurements $M_1$ and $M_2
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch14/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 14.15
 <!-- question -->
@@ -222,7 +222,7 @@ Consider the network shown in Figure telescope-nets-figure (ii), and assume that
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch14/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 14.16
 <!-- question -->
@@ -236,7 +236,7 @@ Consider the Bayes net shown in Figure politics-figure .
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch14/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 14.17
 <!-- question -->
@@ -250,7 +250,7 @@ Consider the Bayes net shown in Figure politics-figure .
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch14/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 14.18
 <!-- question -->
@@ -264,7 +264,7 @@ Consider the variable elimination algorithm in Figure elimination-ask-algorithm 
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch14/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 14.19
 <!-- question -->
@@ -278,7 +278,7 @@ Investigate the complexity of exact inference in general Bayesian networks:
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch14/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 14.20
 <!-- question -->
@@ -292,7 +292,7 @@ Consider the problem of generating a random sample from a specified distribution
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch14/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 14.21
 <!-- question -->
@@ -306,7 +306,7 @@ Consider the query ${\textbf{P}}({Rain}{{\,|\,}}{Sprinkler}{{\,=\,}}{true},{WetG
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch14/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 14.22
 <!-- question -->
@@ -320,7 +320,7 @@ This exercise explores the stationary distribution for Gibbs sampling methods.
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch14/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 14.23
 <!-- question -->
@@ -334,7 +334,7 @@ The Metropolis--Hastings algorithm is a member of the MCMC family; as such, it i
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch14/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch14/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 14.24
 <!-- question -->

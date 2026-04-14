@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part V · Machine Learning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch22/`](../../exercises/ch22/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch22/"><code>exercises/ch22/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch22/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 22.1
 <!-- question -->
@@ -26,7 +26,7 @@ This exercise explores the quality of the $n$-gram model of language.
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch22/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 22.2
 <!-- question -->
@@ -40,7 +40,7 @@ Write a program to do segmentation of
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch22/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 22.3
 <!-- question -->
@@ -54,7 +54,7 @@ Zipf’s law of word distribution states the following:
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch22/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 22.4
 <!-- question -->
@@ -68,7 +68,7 @@ Choose a corpus of at least 20,000 words of online text, and verify
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch22/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 22.5
 <!-- question -->
@@ -82,7 +82,7 @@ Choose a corpus of at least 20,000 words of online text, and verify
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch22/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 22.6
 <!-- question -->
@@ -96,7 +96,7 @@ This exercise concerns the classification of spam email.
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch22/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 22.7
 <!-- question -->
@@ -110,7 +110,7 @@ Create a test set of ten queries, and pose them to three major Web
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch22/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 22.8
 <!-- question -->
@@ -124,7 +124,7 @@ Try to ascertain which of the search engines from the previous exercise
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch22/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 22.9
 <!-- question -->
@@ -138,7 +138,7 @@ Estimate how much storage space is necessary for the index to a 100
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch22/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 22.10
 <!-- question -->
@@ -152,7 +152,7 @@ Write a regular expression or a short program to extract company names.
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch22/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch22/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 22.11
 <!-- question -->

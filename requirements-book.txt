@@ -1,0 +1,2 @@
+# Jupyter Book (Sphinx) + MyST — build the static site in _build/html
+jupyter-book>=1.0,<2

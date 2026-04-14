@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part VI · Communicating, Perceiving, and Acting**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch24/`](../../exercises/ch24/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch24/"><code>exercises/ch24/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch24/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 24.1
 <!-- question -->
@@ -26,7 +26,7 @@ In the shadow of a tree with a dense, leafy canopy, one sees a number of
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch24/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 24.2
 <!-- question -->
@@ -40,7 +40,7 @@ Consider a picture of a white sphere floating in front of a black
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch24/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 24.3
 <!-- question -->
@@ -54,7 +54,7 @@ Consider an infinitely long cylinder of radius $r$ oriented with its
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch24/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 24.4
 <!-- question -->
@@ -68,7 +68,7 @@ Edges in an image can correspond to a variety of events in a scene.
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch24/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 24.5
 <!-- question -->
@@ -82,7 +82,7 @@ A stereoscopic system is being contemplated for terrain mapping. It will consist
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch24/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 24.6
 <!-- question -->
@@ -96,7 +96,7 @@ Which of the following are true, and which are false?
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch24/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 24.7
 <!-- question -->
@@ -110,7 +110,7 @@ Which of the following are true, and which are false?
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch24/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch24/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 24.8
 <!-- question -->

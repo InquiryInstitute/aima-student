@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part V · Machine Learning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch21/`](../../exercises/ch21/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch21/"><code>exercises/ch21/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch21/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 21.1
 <!-- question -->
@@ -26,7 +26,7 @@ Implement a passive learning agent in a simple environment, such as the
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch21/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 21.2
 <!-- question -->
@@ -40,7 +40,7 @@ Chapter complex-decisions-chapter defined a
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch21/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 21.3
 <!-- question -->
@@ -54,7 +54,7 @@ Starting with the passive ADP agent, modify it to use an approximate ADP algorit
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch21/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 21.4
 <!-- question -->
@@ -68,7 +68,7 @@ The direct utility estimation method in
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch21/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 21.5
 <!-- question -->
@@ -82,7 +82,7 @@ Write out the parameter update equations for TD learning with
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch21/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 21.6
 <!-- question -->
@@ -96,7 +96,7 @@ Adapt the vacuum world (Chapter agents-chapter for
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch21/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 21.7
 <!-- question -->
@@ -110,7 +110,7 @@ Implement an exploring reinforcement learning agent that uses direct utility est
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch21/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 21.8
 <!-- question -->
@@ -124,7 +124,7 @@ Devise suitable features for reinforcement learning in stochastic grid
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch21/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 21.9
 <!-- question -->
@@ -138,7 +138,7 @@ Extend the standard game-playing environment
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch21/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 21.10
 <!-- question -->
@@ -152,7 +152,7 @@ Compute the true utility function and the best linear approximation in $x$ and $
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch21/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 21.11
 <!-- question -->
@@ -166,7 +166,7 @@ Implement the REINFORCE and PEGASUS algorithms and apply them to the $4\times 3$
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch21/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 21.12
 <!-- question -->
@@ -180,7 +180,7 @@ Investigate the application of reinforcement learning ideas to the
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch21/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch21/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 21.13
 <!-- question -->

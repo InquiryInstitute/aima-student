@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part II · Problem-Solving**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch03/`](../../exercises/ch03/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch03/"><code>exercises/ch03/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch03/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 3.1
 <!-- question -->
@@ -26,7 +26,7 @@ Explain why problem formulation must follow goal formulation.
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch03/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 3.2
 <!-- question -->
@@ -40,7 +40,7 @@ Give a complete problem formulation for each of the following problems. Choose a
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch03/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 3.3
 <!-- question -->
@@ -54,7 +54,7 @@ Your goal is to navigate a robot out of a maze. The robot starts in the center o
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch03/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 3.4
 <!-- question -->
@@ -68,7 +68,7 @@ You have a $9 \times 9$ grid of squares, each of which can be colored red or blu
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch03/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 3.5
 <!-- question -->
@@ -82,7 +82,7 @@ Suppose two friends live in different cities on a map, such as the Romania map s
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch03/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 3.6
 <!-- question -->
@@ -96,7 +96,7 @@ Show that the 8-puzzle states are divided
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch03/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 3.7
 <!-- question -->
@@ -110,7 +110,7 @@ Consider the $n$-queens problem using the
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch03/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 3.8
 <!-- question -->
@@ -124,7 +124,7 @@ Give a complete problem formulation for each of the following. Choose a formulat
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch03/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 3.9
 <!-- question -->
@@ -138,7 +138,7 @@ Consider the problem of finding the shortest path between two points on a plane 
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch03/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 3.10
 <!-- question -->
@@ -152,7 +152,7 @@ On page non-negative-g , we said that we would not consider problems with negati
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch03/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 3.12
 <!-- question -->
@@ -166,7 +166,7 @@ Define in your own words the following terms: state, state space, search
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch03/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 3.13
 <!-- question -->
@@ -180,7 +180,7 @@ What’s the difference between a world state, a state description, and a
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch03/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 3.14
 <!-- question -->
@@ -194,7 +194,7 @@ An action such as really consists of a long sequence of finer-grained
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch03/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 3.15
 <!-- question -->
@@ -208,7 +208,7 @@ Does a finite state space always lead to a finite search tree? How about
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch03/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 3.16
 <!-- question -->
@@ -222,7 +222,7 @@ Prove that satisfies the graph
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch03/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 3.17
 <!-- question -->
@@ -236,7 +236,7 @@ Which of the following are true and which are false? Explain your answers.
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch03/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 3.18
 <!-- question -->
@@ -250,7 +250,7 @@ Consider a state space where the start state is number 1 and each state $k$ has 
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch03/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 3.19
 <!-- question -->
@@ -264,7 +264,7 @@ A basic wooden railway set contains the pieces shown in . The task is to connect
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch03/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 3.20
 <!-- question -->
@@ -278,7 +278,7 @@ Implement two versions of the function for the 8-puzzle: one that copies
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch03/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 3.21
 <!-- question -->
@@ -292,7 +292,7 @@ On page iterative-lengthening-page , we mentioned iterative lengthening search ,
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch03/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 3.22
 <!-- question -->
@@ -306,7 +306,7 @@ Describe a state space in which iterative deepening search performs much
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch03/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 3.23
 <!-- question -->
@@ -320,7 +320,7 @@ Write a program that will take as input two Web page URLs and find a
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch03/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 3.24
 <!-- question -->
@@ -334,7 +334,7 @@ Consider the vacuum-world problem defined in .
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch03/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 3.25
 <!-- question -->
@@ -348,7 +348,7 @@ Prove each of the following statements, or give a counterexample:
 
 <a id="ex_26"></a>
 
-[Open or edit `ex_26.md` in the repo](../../exercises/ch03/ex_26.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_26.md"><code>ex_26.md</code></a> in the repo.</p>
 
 ## Exercise 3.26
 <!-- question -->
@@ -362,7 +362,7 @@ Compare the performance of A and RBFS on a set of randomly generated
 
 <a id="ex_27"></a>
 
-[Open or edit `ex_27.md` in the repo](../../exercises/ch03/ex_27.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_27.md"><code>ex_27.md</code></a> in the repo.</p>
 
 ## Exercise 3.27
 <!-- question -->
@@ -376,7 +376,7 @@ Trace the operation of A search applied to the problem of getting to
 
 <a id="ex_28"></a>
 
-[Open or edit `ex_28.md` in the repo](../../exercises/ch03/ex_28.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_28.md"><code>ex_28.md</code></a> in the repo.</p>
 
 ## Exercise 3.28
 <!-- question -->
@@ -390,7 +390,7 @@ Sometimes there is no good evaluation function for a problem but there
 
 <a id="ex_29"></a>
 
-[Open or edit `ex_29.md` in the repo](../../exercises/ch03/ex_29.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_29.md"><code>ex_29.md</code></a> in the repo.</p>
 
 ## Exercise 3.29
 <!-- question -->
@@ -404,7 +404,7 @@ Devise a state space in which A using returns a
 
 <a id="ex_30"></a>
 
-[Open or edit `ex_30.md` in the repo](../../exercises/ch03/ex_30.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_30.md"><code>ex_30.md</code></a> in the repo.</p>
 
 ## Exercise 3.30
 <!-- question -->
@@ -418,7 +418,7 @@ Accurate heuristics don’t necessarily reduce search time in the worst
 
 <a id="ex_31"></a>
 
-[Open or edit `ex_31.md` in the repo](../../exercises/ch03/ex_31.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_31.md"><code>ex_31.md</code></a> in the repo.</p>
 
 ## Exercise 3.31
 <!-- question -->
@@ -432,7 +432,7 @@ The heuristic path algorithm Pohl:1977 is a best-first search in which the evalu
 
 <a id="ex_32"></a>
 
-[Open or edit `ex_32.md` in the repo](../../exercises/ch03/ex_32.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_32.md"><code>ex_32.md</code></a> in the repo.</p>
 
 ## Exercise 3.32
 <!-- question -->
@@ -446,7 +446,7 @@ Consider the unbounded version of the regular 2D grid shown in . The start state
 
 <a id="ex_33"></a>
 
-[Open or edit `ex_33.md` in the repo](../../exercises/ch03/ex_33.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_33.md"><code>ex_33.md</code></a> in the repo.</p>
 
 ## Exercise 3.33
 <!-- question -->
@@ -460,7 +460,7 @@ $n$ vehicles occupy squares $(1,1)$ through $(n,1)$ (i.e., the bottom row) of an
 
 <a id="ex_34"></a>
 
-[Open or edit `ex_34.md` in the repo](../../exercises/ch03/ex_34.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_34.md"><code>ex_34.md</code></a> in the repo.</p>
 
 ## Exercise 3.34
 <!-- question -->
@@ -474,7 +474,7 @@ Consider the problem of moving $k$ knights from $k$ starting squares $s_1,\ldots
 
 <a id="ex_35"></a>
 
-[Open or edit `ex_35.md` in the repo](../../exercises/ch03/ex_35.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_35.md"><code>ex_35.md</code></a> in the repo.</p>
 
 ## Exercise 3.35
 <!-- question -->
@@ -488,7 +488,7 @@ We saw on page I-to-F that the straight-line distance heuristic leads greedy
 
 <a id="ex_36"></a>
 
-[Open or edit `ex_36.md` in the repo](../../exercises/ch03/ex_36.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_36.md"><code>ex_36.md</code></a> in the repo.</p>
 
 ## Exercise 3.36
 <!-- question -->
@@ -502,7 +502,7 @@ Invent a heuristic function for the 8-puzzle that sometimes
 
 <a id="ex_37"></a>
 
-[Open or edit `ex_37.md` in the repo](../../exercises/ch03/ex_37.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_37.md"><code>ex_37.md</code></a> in the repo.</p>
 
 ## Exercise 3.37
 <!-- question -->
@@ -516,7 +516,7 @@ Prove that if a heuristic is
 
 <a id="ex_38"></a>
 
-[Open or edit `ex_38.md` in the repo](../../exercises/ch03/ex_38.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_38.md"><code>ex_38.md</code></a> in the repo.</p>
 
 ## Exercise 3.38
 <!-- question -->
@@ -530,7 +530,7 @@ The traveling salesperson problem (TSP) can be solved with the minimum-spanning-
 
 <a id="ex_39"></a>
 
-[Open or edit `ex_39.md` in the repo](../../exercises/ch03/ex_39.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_39.md"><code>ex_39.md</code></a> in the repo.</p>
 
 ## Exercise 3.39
 <!-- question -->
@@ -544,7 +544,7 @@ On page Gaschnig-h-page , we defined the relaxation of the 8-puzzle in
 
 <a id="ex_40"></a>
 
-[Open or edit `ex_40.md` in the repo](../../exercises/ch03/ex_40.md)
+<p>Open or edit <a href="../../exercises/ch03/ex_40.md"><code>ex_40.md</code></a> in the repo.</p>
 
 ## Exercise 3.40
 <!-- question -->

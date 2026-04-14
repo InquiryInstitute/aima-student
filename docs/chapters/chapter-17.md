@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part IV · Uncertain Knowledge and Reasoning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch17/`](../../exercises/ch17/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch17/"><code>exercises/ch17/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch17/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 17.1
 <!-- question -->
@@ -26,7 +26,7 @@ Let the initial belief state $b_0$ for the
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch17/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 17.2
 <!-- question -->
@@ -40,7 +40,7 @@ For the $4\times 3$ world shown in
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch17/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 17.3
 <!-- question -->
@@ -54,7 +54,7 @@ Select a specific member of the set of policies that are optimal for
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch17/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 17.4
 <!-- question -->
@@ -68,7 +68,7 @@ Suppose that we define the utility of a state
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch17/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 17.5
 <!-- question -->
@@ -82,7 +82,7 @@ Can any finite search problem be translated exactly into a Markov
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch17/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 17.6
 <!-- question -->
@@ -96,7 +96,7 @@ Sometimes MDPs are formulated with a reward function $R(s,a)$ that depends on th
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch17/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 17.7
 <!-- question -->
@@ -110,7 +110,7 @@ For the environment shown in
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch17/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 17.8
 <!-- question -->
@@ -124,7 +124,7 @@ Equation ( vi-contraction-equation ) on page vi-contraction-equation states that
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch17/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 17.9
 <!-- question -->
@@ -138,7 +138,7 @@ This exercise considers two-player MDPs that correspond to zero-sum, turn-taking
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch17/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 17.10
 <!-- question -->
@@ -152,7 +152,7 @@ Consider the $3 \times 3$ world shown in Figure grid-mdp-figure (a). The transit
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch17/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 17.11
 <!-- question -->
@@ -166,7 +166,7 @@ Consider the $101 \times 3$ world shown in
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch17/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 17.12
 <!-- question -->
@@ -180,7 +180,7 @@ Consider an undiscounted MDP having three states, (1, 2, 3), with rewards $-1$, 
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch17/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 17.13
 <!-- question -->
@@ -194,7 +194,7 @@ Consider the $4\times 3$ world shown in Figure sequential-decision-world-figure 
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch17/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 17.14
 <!-- question -->
@@ -208,7 +208,7 @@ How can the value determination algorithm be
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch17/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 17.16
 <!-- question -->
@@ -222,7 +222,7 @@ What is the time complexity of $d$ steps of POMDP value iteration for a
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch17/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 17.17
 <!-- question -->
@@ -236,7 +236,7 @@ Consider a version of the two-state POMDP on
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch17/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 17.18
 <!-- question -->
@@ -250,7 +250,7 @@ Show that a dominant strategy
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch17/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 17.19
 <!-- question -->
@@ -264,7 +264,7 @@ In the children’s game of rock–paper–scissors each player reveals at the
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch17/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 17.20
 <!-- question -->
@@ -278,7 +278,7 @@ Solve the game of three -finger Morra.
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch17/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 17.21
 <!-- question -->
@@ -292,7 +292,7 @@ In the Prisoner’s Dilemma , consider the case where after
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch17/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 17.22
 <!-- question -->
@@ -306,7 +306,7 @@ The following payoff matrix, from @Blinder:1983 by way of Bernstein:1996 , shows
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch17/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 17.23
 <!-- question -->
@@ -320,7 +320,7 @@ A Dutch auction is similar in an English auction, but rather than
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch17/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 17.24
 <!-- question -->
@@ -334,7 +334,7 @@ Imagine an auction mechanism that is just like an ascending-bid auction,
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch17/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch17/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 17.25
 <!-- question -->

@@ -2,6 +2,7 @@
 /**
  * Generates docs/README.md (AIMA home) and docs/chapters/chapter-NN.md for each chapter,
  * embedding exercise markdown from exercises/chNN/ex_*.md (sorted by number).
+ * Also writes _toc.yml for Jupyter Book (jb-book).
  *
  * Usage: node scripts/generate-aima-docs.mjs
  */
@@ -61,6 +62,23 @@ function listExerciseFiles(chNum) {
     });
 }
 
+function generateTocYml() {
+  const lines = [];
+  lines.push("format: jb-book");
+  lines.push("root: docs/README");
+  lines.push("parts:");
+  lines.push("  - caption: Chapters");
+  lines.push("    chapters:");
+  for (const c of CHAPTERS) {
+    const slug = `docs/chapters/chapter-${String(c.num).padStart(2, "0")}`;
+    lines.push(`      - file: ${slug}`);
+  }
+  lines.push("  - caption: Interactive");
+  lines.push("    chapters:");
+  lines.push("      - file: docs/thebe-demo");
+  return lines.join("\n") + "\n";
+}
+
 function generateChapterPage(meta) {
   const { num, title, part, partTitle } = meta;
   const files = listExerciseFiles(num);
@@ -71,7 +89,7 @@ function generateChapterPage(meta) {
   lines.push(`**Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part ${part} · ${partTitle}**`);
   lines.push("");
   lines.push(
-    `**Work in this repo:** edit the markdown files under [\`exercises/${chDir(num)}/\`](${relExBase}/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.`,
+    `**Work in this repo:** edit the markdown files under <a href="${relExBase}/"><code>exercises/${chDir(num)}/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.`,
   );
   lines.push("");
   lines.push(
@@ -94,7 +112,9 @@ function generateChapterPage(meta) {
     const body = fs.readFileSync(full, "utf8").trimEnd();
     lines.push(`<a id="${fname.replace(".md", "")}"></a>`);
     lines.push("");
-    lines.push(`[Open or edit \`${fname}\` in the repo](${relExBase}/${fname})`);
+    lines.push(
+      `<p>Open or edit <a href="${relExBase}/${fname}"><code>${fname}</code></a> in the repo.</p>`,
+    );
     lines.push("");
     lines.push(body);
     lines.push("");
@@ -121,13 +141,16 @@ function generateHome() {
   lines.push("## This repository");
   lines.push("");
   lines.push(
-    "- **Answer files:** [`exercises/chNN/ex_*.md`](../exercises/) — each file has a question block and an answer block. Fill answers, commit, and push.",
+    "- **Jupyter Book:** build with `jupyter-book build .` (see `requirements-book.txt`). Output is `_build/html` — the **same site** supports reading, navigation, and **Thebe** live code (see [Thebe demo](thebe-demo.md)).",
+  );
+  lines.push(
+    '- **Answer files:** <a href="../exercises/"><code>exercises/chNN/ex_*.md</code></a> — each file has a question block and an answer block. Fill answers, commit, and push.',
   );
   lines.push(
     "- **Forms UI:** In GitHub Codespaces / VS Code, the **AIMA Exercise Forms** extension (installed by the dev container) can help navigate exercises.",
   );
   lines.push(
-    "- **Regenerate these docs:** from the repo root, run `npm run docs:generate` after exercise files change.",
+    "- **Regenerate chapter pages & TOC:** `npm run docs:generate` after exercise files change, then rebuild the book.",
   );
   lines.push("");
   lines.push("## Chapters and exercises");
@@ -145,7 +168,7 @@ function generateHome() {
   lines.push("");
   lines.push("---");
   lines.push("");
-  lines.push("[← Back to repository README](../README.md)");
+  lines.push("← Use **README.md** at the repository root for Codespaces setup and assignment links.");
   lines.push("");
   return lines.join("\n");
 }
@@ -160,6 +183,8 @@ function main() {
   }
   fs.writeFileSync(path.join(DOCS, "README.md"), generateHome(), "utf8");
   console.warn("wrote", path.relative(ROOT, path.join(DOCS, "README.md")));
+  fs.writeFileSync(path.join(ROOT, "_toc.yml"), generateTocYml(), "utf8");
+  console.warn("wrote", path.relative(ROOT, "_toc.yml"));
 }
 
 main();

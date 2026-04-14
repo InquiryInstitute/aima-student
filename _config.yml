@@ -1,0 +1,34 @@
+# Jupyter Book — same HTML you preview in Codespaces; Thebe adds “Live Code” via Binder.
+# https://jupyterbook.org/en/stable/interactive/thebe.html
+title: AIMA Student
+author: Inquiry Institute
+
+# Only build pages listed in _toc.yml (skip standalone markdown under exercises/, etc.)
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/InquiryInstitute/aima-student
+  path_to_book: ""
+  branch: main
+
+launch_buttons:
+  notebook_interface: classic
+  binderhub_url: https://mybinder.org
+  thebe: true
+
+html:
+  use_issues_button: false
+  use_repository_button: true
+
+sphinx:
+  config:
+    html_show_sourcelink: true
+    exclude_patterns:
+      - exercises/**
+      - node_modules/**
+      - scripts/**
+      - .github/**
+      - .venv/**

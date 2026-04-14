@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part IV · Uncertain Knowledge and Reasoning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch18/`](../../exercises/ch18/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch18/"><code>exercises/ch18/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch18/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 18.1
 <!-- question -->
@@ -26,7 +26,7 @@ Consider the problem faced by an infant
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch18/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 18.2
 <!-- question -->
@@ -40,7 +40,7 @@ Repeat Exercise infant-language-exercise for the case
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch18/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 18.3
 <!-- question -->
@@ -54,7 +54,7 @@ Draw a decision tree for the problem of deciding whether to move forward
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch18/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 18.4
 <!-- question -->
@@ -68,7 +68,7 @@ We never test the same attribute twice along one path in a decision
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch18/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 18.5
 <!-- question -->
@@ -82,7 +82,7 @@ Suppose we generate a training set from a decision tree and then apply
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch18/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 18.6
 <!-- question -->
@@ -96,7 +96,7 @@ In the recursive construction of decision trees, it sometimes happens that a mix
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch18/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 18.7
 <!-- question -->
@@ -110,7 +110,7 @@ Suppose that an attribute splits the set of
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch18/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 18.8
 <!-- question -->
@@ -124,7 +124,7 @@ Consider the following data set comprised of three binary input attributes ($A_1
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch18/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 18.9
 <!-- question -->
@@ -138,7 +138,7 @@ Construct a data set (set of examples with attributes and
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch18/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 18.10
 <!-- question -->
@@ -152,7 +152,7 @@ A decision graph is a generalization of a decision tree that allows nodes (i.e.,
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch18/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 18.11
 <!-- question -->
@@ -166,7 +166,7 @@ This exercise considers $\chi^2$ pruning of decision trees (Section chi-squared-
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch18/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 18.12
 <!-- question -->
@@ -180,7 +180,7 @@ The standard DECISION-TREE-LEARNING algorithm described in the chapter does not 
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch18/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 18.13
 <!-- question -->
@@ -194,7 +194,7 @@ In
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch18/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 18.14
 <!-- question -->
@@ -208,7 +208,7 @@ Suppose you are running a learning experiment on a new algorithm for
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch18/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 18.15
 <!-- question -->
@@ -222,7 +222,7 @@ Suppose that a learning algorithm is trying to find a consistent
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch18/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 18.16
 <!-- question -->
@@ -236,7 +236,7 @@ Construct a decision list to classify the data below. Select tests to be as smal
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch18/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 18.17
 <!-- question -->
@@ -250,7 +250,7 @@ Prove that a decision list can represent the same function as a decision
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch18/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 18.18
 <!-- question -->
@@ -264,7 +264,7 @@ This exercise concerns the expressiveness of decision lists (Section learning-th
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch18/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 18.19
 <!-- question -->
@@ -278,7 +278,7 @@ Suppose a $7$-nearest-neighbors regression search
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch18/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 18.20
 <!-- question -->
@@ -292,7 +292,7 @@ Suppose a $7$-nearest-neighbors regression search
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch18/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 18.21
 <!-- question -->
@@ -306,7 +306,7 @@ Figure kernel-machine-figure showed how a circle at the origin can be linearly s
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch18/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 18.22
 <!-- question -->
@@ -320,7 +320,7 @@ Construct a support vector machine that computes the
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch18/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 18.23
 <!-- question -->
@@ -334,7 +334,7 @@ Consider an ensemble learning algorithm that
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch18/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 18.24
 <!-- question -->
@@ -348,7 +348,7 @@ Construct by hand a neural network that computes the xor
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch18/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 18.25
 <!-- question -->
@@ -362,7 +362,7 @@ A simple perceptron cannot represent xor (or, generally,
 
 <a id="ex_26"></a>
 
-[Open or edit `ex_26.md` in the repo](../../exercises/ch18/ex_26.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_26.md"><code>ex_26.md</code></a> in the repo.</p>
 
 ## Exercise 18.26
 <!-- question -->
@@ -376,7 +376,7 @@ Recall from
 
 <a id="ex_27"></a>
 
-[Open or edit `ex_27.md` in the repo](../../exercises/ch18/ex_27.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_27.md"><code>ex_27.md</code></a> in the repo.</p>
 
 ## Exercise 18.27
 <!-- question -->
@@ -390,7 +390,7 @@ Consider the following set of examples, each with six inputs and one target outp
 
 <a id="ex_28"></a>
 
-[Open or edit `ex_28.md` in the repo](../../exercises/ch18/ex_28.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_28.md"><code>ex_28.md</code></a> in the repo.</p>
 
 ## Exercise 18.28
 <!-- question -->
@@ -404,7 +404,7 @@ Section logistic-regression-section
 
 <a id="ex_29"></a>
 
-[Open or edit `ex_29.md` in the repo](../../exercises/ch18/ex_29.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_29.md"><code>ex_29.md</code></a> in the repo.</p>
 
 ## Exercise 18.29
 <!-- question -->
@@ -418,7 +418,7 @@ Suppose you had a neural network with linear activation functions. That is, for 
 
 <a id="ex_30"></a>
 
-[Open or edit `ex_30.md` in the repo](../../exercises/ch18/ex_30.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_30.md"><code>ex_30.md</code></a> in the repo.</p>
 
 ## Exercise 18.30
 <!-- question -->
@@ -432,7 +432,7 @@ Implement a data structure for layered, feed-forward neural networks,
 
 <a id="ex_31"></a>
 
-[Open or edit `ex_31.md` in the repo](../../exercises/ch18/ex_31.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_31.md"><code>ex_31.md</code></a> in the repo.</p>
 
 ## Exercise 18.31
 <!-- question -->
@@ -446,7 +446,7 @@ Suppose that a training set contains only a single example, repeated 100
 
 <a id="ex_32"></a>
 
-[Open or edit `ex_32.md` in the repo](../../exercises/ch18/ex_32.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_32.md"><code>ex_32.md</code></a> in the repo.</p>
 
 ## Exercise 18.32
 <!-- question -->
@@ -460,7 +460,7 @@ The neural network whose learning performance is measured in
 
 <a id="ex_33"></a>
 
-[Open or edit `ex_33.md` in the repo](../../exercises/ch18/ex_33.md)
+<p>Open or edit <a href="../../exercises/ch18/ex_33.md"><code>ex_33.md</code></a> in the repo.</p>
 
 ## Exercise 18.33
 <!-- question -->

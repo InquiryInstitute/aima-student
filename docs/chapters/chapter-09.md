@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part III · Knowledge, Reasoning, and Planning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch09/`](../../exercises/ch09/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch09/"><code>exercises/ch09/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch09/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 9.1
 <!-- question -->
@@ -26,7 +26,7 @@ Prove that Universal Instantiation is sound and that Existential
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch09/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 9.2
 <!-- question -->
@@ -40,7 +40,7 @@ From ${Likes}({Jerry},{IceCream})$ it seems reasonable to infer
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch09/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 9.3
 <!-- question -->
@@ -54,7 +54,7 @@ Suppose a knowledge base contains just one sentence, $\exists\,x\ {AsHighAs}(x,{
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch09/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 9.4
 <!-- question -->
@@ -68,7 +68,7 @@ For each pair of atomic sentences, give the most general unifier if it exists:
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch09/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 9.5
 <!-- question -->
@@ -82,7 +82,7 @@ For each pair of atomic sentences, give the most general unifier if it exists:
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch09/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 9.6
 <!-- question -->
@@ -96,7 +96,7 @@ Consider the subsumption lattices shown in Figure subsumption-lattice-figure (pa
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch09/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 9.7
 <!-- question -->
@@ -110,7 +110,7 @@ Write down logical representations for the following sentences, suitable for use
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch09/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 9.8
 <!-- question -->
@@ -124,7 +124,7 @@ These questions concern concern issues with substitution and Skolemization.
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch09/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 9.9
 <!-- question -->
@@ -138,7 +138,7 @@ This question considers Horn KBs, such as the following: $$\begin{array}{l} P(F(
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch09/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 9.10
 <!-- question -->
@@ -152,7 +152,7 @@ Explain how to write any given 3-SAT problem of
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch09/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 9.11
 <!-- question -->
@@ -166,7 +166,7 @@ Suppose you are given the following axioms:
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch09/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 9.12
 <!-- question -->
@@ -180,7 +180,7 @@ Suppose you are given the following axioms:
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch09/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 9.13
 <!-- question -->
@@ -194,7 +194,7 @@ A popular children’s riddle is “Brothers and sisters have I none, but
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch09/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 9.14
 <!-- question -->
@@ -208,7 +208,7 @@ Suppose we put into a logical knowledge base a segment of the
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch09/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 9.15
 <!-- question -->
@@ -222,7 +222,7 @@ One might suppose that we can avoid the
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch09/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 9.16
 <!-- question -->
@@ -236,7 +236,7 @@ In this exercise, use the sentences you wrote in Exercise fol-horses-exercise to
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch09/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 9.17
 <!-- question -->
@@ -250,7 +250,7 @@ Trace the execution of the backward-chaining
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch09/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 9.18
 <!-- question -->
@@ -264,7 +264,7 @@ The following Prolog code defines a predicate P. (Remember that uppercase terms 
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch09/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 9.19
 <!-- question -->
@@ -278,7 +278,7 @@ The following Prolog code defines a predicate P. (Remember that uppercase terms 
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch09/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 9.20
 <!-- question -->
@@ -292,7 +292,7 @@ This exercise looks at sorting in Prolog.
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch09/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 9.21
 <!-- question -->
@@ -306,7 +306,7 @@ This exercise looks at the recursive application of rewrite rules, using logic p
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch09/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 9.22
 <!-- question -->
@@ -320,7 +320,7 @@ This exercise considers the implementation of search algorithms in
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch09/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 9.23
 <!-- question -->
@@ -334,7 +334,7 @@ Suppose a knowledge base contains just the following first-order Horn clauses:
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch09/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 9.24
 <!-- question -->
@@ -348,7 +348,7 @@ Let $\cal L$ be the first-order language with a single predicate $S(p,q)$, meani
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch09/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 9.25
 <!-- question -->
@@ -362,7 +362,7 @@ How can resolution be used to show that a sentence is valid?
 
 <a id="ex_26"></a>
 
-[Open or edit `ex_26.md` in the repo](../../exercises/ch09/ex_26.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_26.md"><code>ex_26.md</code></a> in the repo.</p>
 
 ## Exercise 9.26
 <!-- question -->
@@ -376,7 +376,7 @@ Construct an example of two clauses that can be resolved together in two
 
 <a id="ex_27"></a>
 
-[Open or edit `ex_27.md` in the repo](../../exercises/ch09/ex_27.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_27.md"><code>ex_27.md</code></a> in the repo.</p>
 
 ## Exercise 9.27
 <!-- question -->
@@ -390,7 +390,7 @@ From “Horses are animals,” it follows that “The head of a horse is the hea
 
 <a id="ex_28"></a>
 
-[Open or edit `ex_28.md` in the repo](../../exercises/ch09/ex_28.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_28.md"><code>ex_28.md</code></a> in the repo.</p>
 
 ## Exercise 9.28
 <!-- question -->
@@ -404,7 +404,7 @@ From “Sheep are animals,” it follows that “The head of a sheep is the head
 
 <a id="ex_29"></a>
 
-[Open or edit `ex_29.md` in the repo](../../exercises/ch09/ex_29.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_29.md"><code>ex_29.md</code></a> in the repo.</p>
 
 ## Exercise 9.29
 <!-- question -->
@@ -418,7 +418,7 @@ Here are two sentences in the language of first-order logic:
 
 <a id="ex_30"></a>
 
-[Open or edit `ex_30.md` in the repo](../../exercises/ch09/ex_30.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_30.md"><code>ex_30.md</code></a> in the repo.</p>
 
 ## Exercise 9.30
 <!-- question -->
@@ -432,7 +432,7 @@ Resolution can produce nonconstructive proofs for queries with
 
 <a id="ex_31"></a>
 
-[Open or edit `ex_31.md` in the repo](../../exercises/ch09/ex_31.md)
+<p>Open or edit <a href="../../exercises/ch09/ex_31.md"><code>ex_31.md</code></a> in the repo.</p>
 
 ## Exercise 9.31
 <!-- question -->

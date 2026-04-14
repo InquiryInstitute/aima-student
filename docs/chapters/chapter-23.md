@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part VI · Communicating, Perceiving, and Acting**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch23/`](../../exercises/ch23/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch23/"><code>exercises/ch23/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch23/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 23.1
 <!-- question -->
@@ -26,7 +26,7 @@ Read the following text once for understanding, and remember as much of it as yo
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch23/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 23.2
 <!-- question -->
@@ -40,7 +40,7 @@ An HMM grammar is essentially a standard HMM whose state
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch23/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 23.3
 <!-- question -->
@@ -54,7 +54,7 @@ Consider the following PCFG for simple verb phrases:
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch23/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 23.4
 <!-- question -->
@@ -68,7 +68,7 @@ Consider the following simple PCFG for noun phrases:
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch23/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 23.5
 <!-- question -->
@@ -82,7 +82,7 @@ Outline the major differences between Java (or any other computer
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch23/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 23.6
 <!-- question -->
@@ -96,7 +96,7 @@ This exercise concerns grammars for very simple languages.
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch23/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 23.7
 <!-- question -->
@@ -110,7 +110,7 @@ Consider the sentence “Someone walked slowly to the supermarket” and a lexic
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch23/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 23.8
 <!-- question -->
@@ -124,7 +124,7 @@ Collect some examples of time expressions, such as “two o’clock,”
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch23/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 23.9
 <!-- question -->
@@ -138,7 +138,7 @@ Some linguists have argued as follows: Children learning a language hear only po
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch23/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 23.10
 <!-- question -->
@@ -152,7 +152,7 @@ In this exercise you will transform $\large \varepsilon_0$ into Chomsky Normal F
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch23/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 23.11
 <!-- question -->
@@ -166,7 +166,7 @@ Consider the following toy grammar:
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch23/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 23.12
 <!-- question -->
@@ -180,7 +180,7 @@ Using DCG notation, write a grammar for a
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch23/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 23.13
 <!-- question -->
@@ -194,7 +194,7 @@ Consider the following PCFG:
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch23/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 23.14
 <!-- question -->
@@ -208,7 +208,7 @@ An augmented context-free grammar can represent languages that a regular
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch23/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 23.15
 <!-- question -->
@@ -222,7 +222,7 @@ Augment the $\large \varepsilon_1$ grammar so that it handles article–noun agr
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch23/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 23.16
 <!-- question -->
@@ -236,7 +236,7 @@ Consider the following sentence (from The New York Times, July 28, 2008):
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch23/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 23.17
 <!-- question -->
@@ -250,7 +250,7 @@ Without looking back at Exercise washing-clothes-exercise , answer the following
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch23/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 23.18
 <!-- question -->
@@ -264,7 +264,7 @@ Select five sentences and submit them to an online translation service.
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch23/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 23.19
 <!-- question -->
@@ -278,7 +278,7 @@ The $D_i$ values for the sentence in
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch23/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 23.20
 <!-- question -->
@@ -292,7 +292,7 @@ The $D_i$ values for the sentence in
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch23/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 23.21
 <!-- question -->
@@ -306,7 +306,7 @@ Calculate the most probable path through the HMM in
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch23/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch23/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 23.22
 <!-- question -->

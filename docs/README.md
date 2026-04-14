@@ -11,9 +11,10 @@ Student exercise hub for **Russell & Norvig**, *Artificial Intelligence: A Moder
 
 ## This repository
 
-- **Answer files:** [`exercises/chNN/ex_*.md`](../exercises/) — each file has a question block and an answer block. Fill answers, commit, and push.
+- **Jupyter Book:** build with `jupyter-book build .` (see `requirements-book.txt`). Output is `_build/html` — the **same site** supports reading, navigation, and **Thebe** live code (see [Thebe demo](thebe-demo.md)).
+- **Answer files:** <a href="../exercises/"><code>exercises/chNN/ex_*.md</code></a> — each file has a question block and an answer block. Fill answers, commit, and push.
 - **Forms UI:** In GitHub Codespaces / VS Code, the **AIMA Exercise Forms** extension (installed by the dev container) can help navigate exercises.
-- **Regenerate these docs:** from the repo root, run `npm run docs:generate` after exercise files change.
+- **Regenerate chapter pages & TOC:** `npm run docs:generate` after exercise files change, then rebuild the book.
 
 ## Chapters and exercises
 
@@ -48,4 +49,4 @@ Student exercise hub for **Russell & Norvig**, *Artificial Intelligence: A Moder
 
 ---
 
-[← Back to repository README](../README.md)
+← Use **README.md** at the repository root for Codespaces setup and assignment links.

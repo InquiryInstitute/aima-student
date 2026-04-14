@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part II · Problem-Solving**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch05/`](../../exercises/ch05/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch05/"><code>exercises/ch05/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch05/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 5.1
 <!-- question -->
@@ -26,7 +26,7 @@ Suppose you have an oracle, $OM(s)$, that correctly predicts the
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch05/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 5.2
 <!-- question -->
@@ -40,7 +40,7 @@ Consider the problem of solving two 8-puzzles.
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch05/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 5.3
 <!-- question -->
@@ -54,7 +54,7 @@ Imagine that, in Exercise two-friends-exercise , one of the friends wants to avo
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch05/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 5.4
 <!-- question -->
@@ -68,7 +68,7 @@ Describe and implement state
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch05/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 5.5
 <!-- question -->
@@ -82,7 +82,7 @@ Describe and implement a real-time ,
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch05/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 5.6
 <!-- question -->
@@ -96,7 +96,7 @@ Discuss how well the standard approach to game playing would apply to
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch05/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 5.7
 <!-- question -->
@@ -110,7 +110,7 @@ Prove the following assertion: For every
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch05/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 5.8
 <!-- question -->
@@ -124,7 +124,7 @@ Consider the two-player game described in Figure line-game4-figure
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch05/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 5.9
 <!-- question -->
@@ -138,7 +138,7 @@ This problem exercises the basic concepts of game playing, using tic-tac-toe (no
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch05/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 5.10
 <!-- question -->
@@ -152,7 +152,7 @@ Consider the family of generalized tic-tac-toe games, defined as follows. Each p
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch05/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 5.11
 <!-- question -->
@@ -166,7 +166,7 @@ Develop a general game-playing program, capable of playing a variety of games.
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch05/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 5.12
 <!-- question -->
@@ -180,7 +180,7 @@ Describe how the minimax and alpha–beta algorithms change for
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch05/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 5.13
 <!-- question -->
@@ -194,7 +194,7 @@ Describe how the minimax and alpha–beta algorithms change for
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch05/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 5.14
 <!-- question -->
@@ -208,7 +208,7 @@ Develop a formal proof of correctness for alpha–beta pruning. To do this, cons
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch05/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 5.15
 <!-- question -->
@@ -222,7 +222,7 @@ Prove that the alpha–beta algorithm takes time $O(b^{m/2})$ with optimal
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch05/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 5.16
 <!-- question -->
@@ -236,7 +236,7 @@ Suppose you have a chess program that can evaluate 5 million nodes per
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch05/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 5.17
 <!-- question -->
@@ -250,7 +250,7 @@ Suppose you have a chess program that can evaluate 10 million nodes per second. 
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch05/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 5.18
 <!-- question -->
@@ -264,7 +264,7 @@ This question considers pruning in games with chance nodes. Figure trivial-chanc
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch05/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 5.19
 <!-- question -->
@@ -278,7 +278,7 @@ Implement the expectiminimax algorithm and the \*-alpha–beta algorithm,
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch05/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 5.20
 <!-- question -->
@@ -292,7 +292,7 @@ Prove that with a positive linear
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch05/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 5.21
 <!-- question -->
@@ -306,7 +306,7 @@ Consider the following procedure for choosing moves in games with chance nodes:
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch05/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 5.22
 <!-- question -->
@@ -320,7 +320,7 @@ In the following, a “max” tree consists only of max nodes, whereas an “exp
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch05/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 5.23
 <!-- question -->
@@ -334,7 +334,7 @@ In the following, a “max” tree consists only of max nodes, whereas an “exp
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch05/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 5.24
 <!-- question -->
@@ -348,7 +348,7 @@ Which of the following are true and which are false? Give brief explanations.
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch05/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch05/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 5.25
 <!-- question -->

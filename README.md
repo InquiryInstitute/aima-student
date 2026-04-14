@@ -2,12 +2,21 @@
 
 Use this repository for **Artificial Intelligence: A Modern Approach** exercises. Open it in **GitHub Codespaces** (recommended) or clone locally.
 
-**Browse the full guide:** [**AIMA home (all chapters)**](docs/README.md) — one page per chapter with every exercise inlined for reading; your answers still go in [`exercises/chNN/`](exercises/).
+## Jupyter Book (center preview)
+
+The dev container builds a **Jupyter Book** (`jupyter-book build .`) into **`_build/html`** and starts a static server on **port 8765**. VS Code / Codespaces should **open that URL in the editor preview** (Simple Browser–style) instead of focusing `README.md`.
+
+- **Thebe:** use **Live Code** in the built site (Binder kernel). See the **Thebe demo** page in the book TOC (`docs/thebe-demo.md` source).
+- **Regenerate:** `npm run docs:generate` updates `docs/` and `_toc.yml`, then `npm run book:build` (or `bash scripts/bootstrap-codespace.sh` in a fresh environment).
+
+**Jupyter Slide Show (authoring):** the **Jupyter Slide Show** extension (`ms-toolsai.vscode-jupyter-slideshow`) is included so you can tag notebook cells as *Slide* / *Sub-slide* when you author `.ipynb` content; `jupyter nbconvert --to slides` is the usual export path. The **canonical reading/runtime surface** for this repo remains the **same Jupyter Book HTML** plus Thebe, not a separate Reveal bundle.
+
+**Browse in the repo:** [docs/README.md](docs/README.md) — chapter index; your answers still go in [`exercises/chNN/`](exercises/).
 
 ## Start here
 
 1. Open this repo on GitHub → **Code** → **Codespaces** → **Create codespace on main**.
-2. After the container finishes, read this file and open the chapter folder for your assignment.
+2. After create finishes, wait for the book build, then use the **Ports** preview for **8765** (or the auto-opened preview tab).
 3. Edit the markdown under `exercises/chNN/`, fill the `<!-- answer -->` blocks, commit, and push.
 
 ## Assignments by chapter

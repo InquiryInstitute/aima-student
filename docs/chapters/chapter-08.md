@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part III · Knowledge, Reasoning, and Planning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch08/`](../../exercises/ch08/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch08/"><code>exercises/ch08/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch08/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 8.1
 <!-- question -->
@@ -26,7 +26,7 @@ A logical knowledge base represents the world using a set of sentences with no e
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch08/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 8.2
 <!-- question -->
@@ -40,7 +40,7 @@ Consider a knowledge base containing just two sentences: $P(a)$ and
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch08/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 8.3
 <!-- question -->
@@ -54,7 +54,7 @@ Is the sentence ${\exists\,x,y\;\;} x{{\,=\,}}y$ valid? Explain.
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch08/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 8.4
 <!-- question -->
@@ -68,7 +68,7 @@ Write down a logical sentence such that every world in which it is true
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch08/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 8.5
 <!-- question -->
@@ -82,7 +82,7 @@ Write down a logical sentence such that every world in which it is true
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch08/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 8.6
 <!-- question -->
@@ -96,7 +96,7 @@ Consider a symbol vocabulary that contains
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch08/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 8.7
 <!-- question -->
@@ -110,7 +110,7 @@ Which of the following are valid (necessarily true) sentences?
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch08/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 8.8
 <!-- question -->
@@ -124,7 +124,7 @@ Consider a version of the semantics for
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch08/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 8.9
 <!-- question -->
@@ -138,7 +138,7 @@ Does the fact
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch08/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 8.10
 <!-- question -->
@@ -152,7 +152,7 @@ This exercise uses the function ${MapColor}$ and predicates ${In}(x,y)$, ${Borde
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch08/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 8.11
 <!-- question -->
@@ -166,7 +166,7 @@ Consider a vocabulary with the following symbols:
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch08/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 8.12
 <!-- question -->
@@ -180,7 +180,7 @@ In each of the following we give an English sentence and a number of candidate l
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch08/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 8.13
 <!-- question -->
@@ -194,7 +194,7 @@ Complete the following exercises about logical sentences:
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch08/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 8.14
 <!-- question -->
@@ -208,7 +208,7 @@ True or false? Explain.
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch08/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 8.15
 <!-- question -->
@@ -222,7 +222,7 @@ Rewrite the first two Peano axioms in
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch08/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 8.16
 <!-- question -->
@@ -236,7 +236,7 @@ Equation ( pit-biconditional-equation ) on page pit-biconditional-equation defin
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch08/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 8.17
 <!-- question -->
@@ -250,7 +250,7 @@ Write axioms describing the predicates ${Grandchild}$, ${Greatgrandparent}$, ${A
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch08/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 8.18
 <!-- question -->
@@ -264,7 +264,7 @@ Write down a sentence asserting that + is a commutative function. Does
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch08/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 8.19
 <!-- question -->
@@ -278,7 +278,7 @@ Explain what is wrong with the following proposed definition of the set
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch08/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 8.20
 <!-- question -->
@@ -292,7 +292,7 @@ Using the set axioms as examples, write
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch08/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 8.21
 <!-- question -->
@@ -306,7 +306,7 @@ Explain what is wrong with the following proposed
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch08/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 8.22
 <!-- question -->
@@ -320,7 +320,7 @@ Write out the axioms required for reasoning about the wumpus’s location,
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch08/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 8.23
 <!-- question -->
@@ -334,7 +334,7 @@ Assuming predicates ${Parent}(p,q)$ and ${Female}(p)$ and constants ${Joan}$ and
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch08/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 8.24
 <!-- question -->
@@ -348,7 +348,7 @@ Arithmetic assertions can be written in first-order logic with the predicate sym
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch08/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 8.25
 <!-- question -->
@@ -362,7 +362,7 @@ In Chapter csp-chapter , we used equality to indicate
 
 <a id="ex_26"></a>
 
-[Open or edit `ex_26.md` in the repo](../../exercises/ch08/ex_26.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_26.md"><code>ex_26.md</code></a> in the repo.</p>
 
 ## Exercise 8.26
 <!-- question -->
@@ -376,7 +376,7 @@ Write in first-order logic the assertion that every key and at least one
 
 <a id="ex_27"></a>
 
-[Open or edit `ex_27.md` in the repo](../../exercises/ch08/ex_27.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_27.md"><code>ex_27.md</code></a> in the repo.</p>
 
 ## Exercise 8.27
 <!-- question -->
@@ -390,7 +390,7 @@ For each of the following sentences in English, decide if the accompanying first
 
 <a id="ex_28"></a>
 
-[Open or edit `ex_28.md` in the repo](../../exercises/ch08/ex_28.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_28.md"><code>ex_28.md</code></a> in the repo.</p>
 
 ## Exercise 8.28
 <!-- question -->
@@ -404,7 +404,7 @@ Translate into first-order logic the sentence “Everyone’s DNA is unique
 
 <a id="ex_29"></a>
 
-[Open or edit `ex_29.md` in the repo](../../exercises/ch08/ex_29.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_29.md"><code>ex_29.md</code></a> in the repo.</p>
 
 ## Exercise 8.29
 <!-- question -->
@@ -418,7 +418,7 @@ For each of the following sentences in English, decide if the accompanying first
 
 <a id="ex_30"></a>
 
-[Open or edit `ex_30.md` in the repo](../../exercises/ch08/ex_30.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_30.md"><code>ex_30.md</code></a> in the repo.</p>
 
 ## Exercise 8.30
 <!-- question -->
@@ -432,7 +432,7 @@ Represent the following sentences in first-order logic, using a consistent vocab
 
 <a id="ex_31"></a>
 
-[Open or edit `ex_31.md` in the repo](../../exercises/ch08/ex_31.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_31.md"><code>ex_31.md</code></a> in the repo.</p>
 
 ## Exercise 8.31
 <!-- question -->
@@ -446,7 +446,7 @@ Represent the following sentences in first-order logic, using a consistent vocab
 
 <a id="ex_32"></a>
 
-[Open or edit `ex_32.md` in the repo](../../exercises/ch08/ex_32.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_32.md"><code>ex_32.md</code></a> in the repo.</p>
 
 ## Exercise 8.32
 <!-- question -->
@@ -460,7 +460,7 @@ Write a general set of facts and axioms to represent the assertion
 
 <a id="ex_33"></a>
 
-[Open or edit `ex_33.md` in the repo](../../exercises/ch08/ex_33.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_33.md"><code>ex_33.md</code></a> in the repo.</p>
 
 ## Exercise 8.33
 <!-- question -->
@@ -474,7 +474,7 @@ Extend the vocabulary from Section circuits-section to define addition for $n$-b
 
 <a id="ex_34"></a>
 
-[Open or edit `ex_34.md` in the repo](../../exercises/ch08/ex_34.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_34.md"><code>ex_34.md</code></a> in the repo.</p>
 
 ## Exercise 8.34
 <!-- question -->
@@ -488,7 +488,7 @@ The circuit representation in the chapter is more detailed than
 
 <a id="ex_35"></a>
 
-[Open or edit `ex_35.md` in the repo](../../exercises/ch08/ex_35.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_35.md"><code>ex_35.md</code></a> in the repo.</p>
 
 ## Exercise 8.35
 <!-- question -->
@@ -502,7 +502,7 @@ Obtain a passport application for your country, identify the rules
 
 <a id="ex_36"></a>
 
-[Open or edit `ex_36.md` in the repo](../../exercises/ch08/ex_36.md)
+<p>Open or edit <a href="../../exercises/ch08/ex_36.md"><code>ex_36.md</code></a> in the repo.</p>
 
 ## Exercise 8.36
 <!-- question -->

@@ -7,14 +7,26 @@
     "ghcr.io/devcontainers/features/node:1": { "version": "20" },
     "ghcr.io/devcontainers/features/python:1": { "version": "3.11", "installTools": true }
   },
+  "forwardPorts": [8765],
+  "portsAttributes": {
+    "8765": {
+      "label": "Jupyter Book (static)",
+      "onAutoForward": "openPreview"
+    }
+  },
   "customizations": {
     "vscode": {
-      "extensions": [],
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-slideshow"
+      ],
       "settings": {
-        "workbench.startupEditor": "readme"
+        "workbench.startupEditor": "none"
       }
     }
   },
   "remoteUser": "vscode",
-  "postCreateCommand": "curl -sL -o /tmp/aima-exercise-forms.vsix 'https://github.com/InquiryInstitute/aima-exercise-forms/releases/download/v0.1.1/aima-exercise-forms-0.1.1.vsix' && code --install-extension /tmp/aima-exercise-forms.vsix || true"
+  "postCreateCommand": "bash scripts/bootstrap-codespace.sh",
+  "postStartCommand": "bash -lc 'PY=python3; [[ -x \"${containerWorkspaceFolder}/.venv/bin/python\" ]] && PY=\"${containerWorkspaceFolder}/.venv/bin/python\"; [[ -d \"${containerWorkspaceFolder}/_build/html\" ]] && nohup \"$PY\" -m http.server 8765 --bind 127.0.0.1 --directory \"${containerWorkspaceFolder}/_build/html\" > /tmp/aima-jb-http.log 2>&1 &'"
 }

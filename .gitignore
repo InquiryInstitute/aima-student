@@ -1,3 +1,6 @@
 node_modules/
 .DS_Store
 *.vsix
+_build/
+.jupyter_cache/
+.venv/

@@ -2,7 +2,7 @@
 
 **Russell & Norvig, *Artificial Intelligence: A Modern Approach* (4th ed.) · Part IV · Uncertain Knowledge and Reasoning**
 
-**Work in this repo:** edit the markdown files under [`exercises/ch13/`](../../exercises/ch13/) (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
+**Work in this repo:** edit the markdown files under <a href="../../exercises/ch13/"><code>exercises/ch13/</code></a> (each exercise is one file). This page inlines those prompts for reading; answers belong in the repo files.
 
 *Generated from `exercises/` by `npm run docs:generate`. Regenerate after pulling exercise updates.*
 
@@ -12,7 +12,7 @@
 
 <a id="ex_1"></a>
 
-[Open or edit `ex_1.md` in the repo](../../exercises/ch13/ex_1.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_1.md"><code>ex_1.md</code></a> in the repo.</p>
 
 ## Exercise 13.1
 <!-- question -->
@@ -26,7 +26,7 @@ Show from first principles that $P(a{{\,|\,}}b\land a) = 1$.
 
 <a id="ex_2"></a>
 
-[Open or edit `ex_2.md` in the repo](../../exercises/ch13/ex_2.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_2.md"><code>ex_2.md</code></a> in the repo.</p>
 
 ## Exercise 13.2
 <!-- question -->
@@ -40,7 +40,7 @@ Using the axioms of probability, prove that any
 
 <a id="ex_3"></a>
 
-[Open or edit `ex_3.md` in the repo](../../exercises/ch13/ex_3.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_3.md"><code>ex_3.md</code></a> in the repo.</p>
 
 ## Exercise 13.3
 <!-- question -->
@@ -54,7 +54,7 @@ For each of the following statements, either prove it is true or give a countere
 
 <a id="ex_4"></a>
 
-[Open or edit `ex_4.md` in the repo](../../exercises/ch13/ex_4.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_4.md"><code>ex_4.md</code></a> in the repo.</p>
 
 ## Exercise 13.4
 <!-- question -->
@@ -68,7 +68,7 @@ Would it be rational for an agent to hold the three beliefs
 
 <a id="ex_5"></a>
 
-[Open or edit `ex_5.md` in the repo](../../exercises/ch13/ex_5.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_5.md"><code>ex_5.md</code></a> in the repo.</p>
 
 ## Exercise 13.5
 <!-- question -->
@@ -82,7 +82,7 @@ This question deals with the properties of possible worlds, defined on page poss
 
 <a id="ex_6"></a>
 
-[Open or edit `ex_6.md` in the repo](../../exercises/ch13/ex_6.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_6.md"><code>ex_6.md</code></a> in the repo.</p>
 
 ## Exercise 13.6
 <!-- question -->
@@ -96,7 +96,7 @@ Prove
 
 <a id="ex_7"></a>
 
-[Open or edit `ex_7.md` in the repo](../../exercises/ch13/ex_7.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_7.md"><code>ex_7.md</code></a> in the repo.</p>
 
 ## Exercise 13.7
 <!-- question -->
@@ -110,7 +110,7 @@ Consider the set of all possible five-card poker hands dealt fairly from a stand
 
 <a id="ex_8"></a>
 
-[Open or edit `ex_8.md` in the repo](../../exercises/ch13/ex_8.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_8.md"><code>ex_8.md</code></a> in the repo.</p>
 
 ## Exercise 13.8
 <!-- question -->
@@ -124,7 +124,7 @@ Given the full joint distribution shown in Figure dentist-joint-table , calculat
 
 <a id="ex_9"></a>
 
-[Open or edit `ex_9.md` in the repo](../../exercises/ch13/ex_9.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_9.md"><code>ex_9.md</code></a> in the repo.</p>
 
 ## Exercise 13.9
 <!-- question -->
@@ -138,7 +138,7 @@ Given the full joint distribution shown in Figure dentist-joint-table , calculat
 
 <a id="ex_10"></a>
 
-[Open or edit `ex_10.md` in the repo](../../exercises/ch13/ex_10.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_10.md"><code>ex_10.md</code></a> in the repo.</p>
 
 ## Exercise 13.10
 <!-- question -->
@@ -152,7 +152,7 @@ In his letter of August 24, 1654, Pascal
 
 <a id="ex_11"></a>
 
-[Open or edit `ex_11.md` in the repo](../../exercises/ch13/ex_11.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_11.md"><code>ex_11.md</code></a> in the repo.</p>
 
 ## Exercise 13.11
 <!-- question -->
@@ -166,7 +166,7 @@ Deciding to put probability theory to good use, we encounter a slot machine with
 
 <a id="ex_12"></a>
 
-[Open or edit `ex_12.md` in the repo](../../exercises/ch13/ex_12.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_12.md"><code>ex_12.md</code></a> in the repo.</p>
 
 ## Exercise 13.12
 <!-- question -->
@@ -180,7 +180,7 @@ Deciding to put probability theory to good use, we encounter a slot machine with
 
 <a id="ex_13"></a>
 
-[Open or edit `ex_13.md` in the repo](../../exercises/ch13/ex_13.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_13.md"><code>ex_13.md</code></a> in the repo.</p>
 
 ## Exercise 13.13
 <!-- question -->
@@ -194,7 +194,7 @@ We wish to transmit an $n$-bit message to a receiving agent. The bits in
 
 <a id="ex_14"></a>
 
-[Open or edit `ex_14.md` in the repo](../../exercises/ch13/ex_14.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_14.md"><code>ex_14.md</code></a> in the repo.</p>
 
 ## Exercise 13.14
 <!-- question -->
@@ -208,7 +208,7 @@ We wish to transmit an $n$-bit message to a receiving agent. The bits in
 
 <a id="ex_15"></a>
 
-[Open or edit `ex_15.md` in the repo](../../exercises/ch13/ex_15.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_15.md"><code>ex_15.md</code></a> in the repo.</p>
 
 ## Exercise 13.15
 <!-- question -->
@@ -222,7 +222,7 @@ Show that the three forms of independence in
 
 <a id="ex_16"></a>
 
-[Open or edit `ex_16.md` in the repo](../../exercises/ch13/ex_16.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_16.md"><code>ex_16.md</code></a> in the repo.</p>
 
 ## Exercise 13.16
 <!-- question -->
@@ -236,7 +236,7 @@ Consider two medical tests, A and B, for a virus. Test A is 95%
 
 <a id="ex_17"></a>
 
-[Open or edit `ex_17.md` in the repo](../../exercises/ch13/ex_17.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_17.md"><code>ex_17.md</code></a> in the repo.</p>
 
 ## Exercise 13.17
 <!-- question -->
@@ -250,7 +250,7 @@ Suppose you are given a coin that lands ${heads}$ with probability $x$
 
 <a id="ex_18"></a>
 
-[Open or edit `ex_18.md` in the repo](../../exercises/ch13/ex_18.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_18.md"><code>ex_18.md</code></a> in the repo.</p>
 
 ## Exercise 13.18
 <!-- question -->
@@ -264,7 +264,7 @@ After your yearly checkup, the doctor has bad news and good news. The
 
 <a id="ex_19"></a>
 
-[Open or edit `ex_19.md` in the repo](../../exercises/ch13/ex_19.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_19.md"><code>ex_19.md</code></a> in the repo.</p>
 
 ## Exercise 13.19
 <!-- question -->
@@ -278,7 +278,7 @@ After your yearly checkup, the doctor has bad news and good news. The
 
 <a id="ex_20"></a>
 
-[Open or edit `ex_20.md` in the repo](../../exercises/ch13/ex_20.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_20.md"><code>ex_20.md</code></a> in the repo.</p>
 
 ## Exercise 13.20
 <!-- question -->
@@ -292,7 +292,7 @@ It is quite often useful to consider the effect of some specific propositions in
 
 <a id="ex_21"></a>
 
-[Open or edit `ex_21.md` in the repo](../../exercises/ch13/ex_21.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_21.md"><code>ex_21.md</code></a> in the repo.</p>
 
 ## Exercise 13.21
 <!-- question -->
@@ -306,7 +306,7 @@ Show that the statement of conditional independence
 
 <a id="ex_22"></a>
 
-[Open or edit `ex_22.md` in the repo](../../exercises/ch13/ex_22.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_22.md"><code>ex_22.md</code></a> in the repo.</p>
 
 ## Exercise 13.22
 <!-- question -->
@@ -320,7 +320,7 @@ Suppose you are given a bag containing $n$ unbiased coins. You are told that $n-
 
 <a id="ex_23"></a>
 
-[Open or edit `ex_23.md` in the repo](../../exercises/ch13/ex_23.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_23.md"><code>ex_23.md</code></a> in the repo.</p>
 
 ## Exercise 13.23
 <!-- question -->
@@ -334,7 +334,7 @@ In this exercise, you will complete the
 
 <a id="ex_24"></a>
 
-[Open or edit `ex_24.md` in the repo](../../exercises/ch13/ex_24.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_24.md"><code>ex_24.md</code></a> in the repo.</p>
 
 ## Exercise 13.24
 <!-- question -->
@@ -348,7 +348,7 @@ This exercise investigates the way in which conditional independence relationshi
 
 <a id="ex_25"></a>
 
-[Open or edit `ex_25.md` in the repo](../../exercises/ch13/ex_25.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_25.md"><code>ex_25.md</code></a> in the repo.</p>
 
 ## Exercise 13.25
 <!-- question -->
@@ -362,7 +362,7 @@ Let $X$, $Y$, $Z$ be Boolean random variables. Label the eight entries
 
 <a id="ex_26"></a>
 
-[Open or edit `ex_26.md` in the repo](../../exercises/ch13/ex_26.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_26.md"><code>ex_26.md</code></a> in the repo.</p>
 
 ## Exercise 13.26
 <!-- question -->
@@ -376,7 +376,7 @@ Let $X$, $Y$, $Z$ be Boolean random variables. Label the eight entries
 
 <a id="ex_27"></a>
 
-[Open or edit `ex_27.md` in the repo](../../exercises/ch13/ex_27.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_27.md"><code>ex_27.md</code></a> in the repo.</p>
 
 ## Exercise 13.27
 <!-- question -->
@@ -390,7 +390,7 @@ Write out a general algorithm for answering queries of the form
 
 <a id="ex_28"></a>
 
-[Open or edit `ex_28.md` in the repo](../../exercises/ch13/ex_28.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_28.md"><code>ex_28.md</code></a> in the repo.</p>
 
 ## Exercise 13.28
 <!-- question -->
@@ -404,7 +404,7 @@ Text categorization is the task of assigning a given document to one of a fixed 
 
 <a id="ex_29"></a>
 
-[Open or edit `ex_29.md` in the repo](../../exercises/ch13/ex_29.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_29.md"><code>ex_29.md</code></a> in the repo.</p>
 
 ## Exercise 13.29
 <!-- question -->
@@ -418,7 +418,7 @@ In our analysis of the wumpus world, we used the fact that
 
 <a id="ex_30"></a>
 
-[Open or edit `ex_30.md` in the repo](../../exercises/ch13/ex_30.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_30.md"><code>ex_30.md</code></a> in the repo.</p>
 
 ## Exercise 13.30
 <!-- question -->
@@ -432,7 +432,7 @@ Redo the probability calculation for pits in [1,3] and [2,2],
 
 <a id="ex_31"></a>
 
-[Open or edit `ex_31.md` in the repo](../../exercises/ch13/ex_31.md)
+<p>Open or edit <a href="../../exercises/ch13/ex_31.md"><code>ex_31.md</code></a> in the repo.</p>
 
 ## Exercise 13.31
 <!-- question -->
